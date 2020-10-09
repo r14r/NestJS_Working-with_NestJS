@@ -1,0 +1,18 @@
+# _DEPLOY_VERSION=2.6.1-01
+
+defaults=ionic
+defaults=commitizen
+defaults=@angular/cli --save
+defaults=@capacitor/core --save
+defaults=@capacitor/cli --save
+
+use_node=true
+use_ionic=false
+use_angular=false
+use_python=true
+use_dotnet=false
+use_yarn=true
+use_flutter=false
+use_fastlane=false
+use_android=false
+use_java=11
